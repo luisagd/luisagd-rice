@@ -1,0 +1,1 @@
+#My own custom window manager based on DWM. Intended for a base archlinux x64 install.
